@@ -6,7 +6,7 @@ When using a DJI drone/payload such as the M30 Series or H20 Series the laser ra
 
 The goal of this script is to allow easy display of drone photos at the coordinates from the laser range finder by replacing the drone lat lon with the laser range finder lat lon.
 
-<img src="example.png" width="400">
+<img src="example.png" width="800">
 
 The script performs this in batch for every valid file within the directory provided and by default does not make copies of the original (can change parameter in main.py). Thus it is reccomended to run this script on copies of the original files if you would like to keep the originals untouched.
 
