@@ -2,9 +2,9 @@
 
 When using a DJI drone/payload such as the M30 Series or H20 Series the laser range finder coordinate is written to the metadata. However when opening a photo in a GIS software such as ARCGIS, QGIS, or Google Maps using a tool like photo to pin the photo is displayed at the drone coordinate and there is no option to select the laser range finder location. 
 
-
-
 The goal of this script is to allow easy display of drone photos at the coordinates from the laser range finder by replacing the drone lat lon with the laser range finder lat lon.
+
+With the ability of the zoom camera allowing for quick damage assessment, one example would be to place the photos above the house/apartment that a photo is taken of following a natural disaster.
 
 <img src="example.png" width="800">
 
